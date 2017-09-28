@@ -1,3 +1,5 @@
+//TopCoder SRM 144 DIV 2 1100 problem. The hack to this problem is that the technician must traverse each duct twice except the longest duct path.
+
 public class PowerOutage{
 
 	public static int longestpath(int origin, int[] fromJunction, int[] toJunction, int[] ductLength){
